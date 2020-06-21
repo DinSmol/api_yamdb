@@ -1018,10 +1018,6 @@ components:
       required:
         - name
       properties:
-        id:
-          type: integer
-          title: ID произведения
-          readOnly: true
         name:
           type: string
           title: Название
